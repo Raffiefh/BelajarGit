@@ -1,3 +1,5 @@
 Belajar aja
 -Belajar Gitflow
 -Belajar berkolaborasi
+-Belajar Website
+-Membuat file yang berkualitas
